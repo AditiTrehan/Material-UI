@@ -1,0 +1,15 @@
+.Wide{
+    width:20%;
+    float:left;
+    margin-left:30px;
+    display:flex;
+    flex-direction: column;
+}
+.Margin{
+    margin-left:70%;
+    margin-top:-30%;
+}
+.Shift{
+    padding-left:50%;
+    width:100%;
+}
